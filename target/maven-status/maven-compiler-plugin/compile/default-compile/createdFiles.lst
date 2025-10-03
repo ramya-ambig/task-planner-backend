@@ -1,0 +1,9 @@
+com\example\taskplanner\controller\SprintController.class
+com\example\taskplanner\repository\SprintRepository.class
+com\example\taskplanner\service\TaskService.class
+com\example\taskplanner\model\Task.class
+com\example\taskplanner\controller\TaskController.class
+com\example\taskplanner\TaskplannerApplication.class
+com\example\taskplanner\model\Sprint.class
+com\example\taskplanner\service\SprintService.class
+com\example\taskplanner\repository\TaskRepository.class
